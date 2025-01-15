@@ -22,7 +22,6 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 
 软件运行路径中不要有非英文字符和空格
 
-软件常见问题说明：https://nuowa.net/1607
 
 ## LatentSync一键启动整合包下载链接
 https://pan.quark.cn/s/5455cfb8e06d
