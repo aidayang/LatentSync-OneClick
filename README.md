@@ -4,6 +4,8 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 
 为了让大家快速上手体验，省去安装部署耗时，我制作了最新版的一键启动整合包。
 
+2.25-03-19更新v1.5版本
+
 ## LatentSync整合包使用说明
 首先将软件压缩包下载到本地电脑并解压，双击【启动软件.exe】，稍等一会加载模型，完成后会自动打开webUI界面。
 
@@ -22,11 +24,18 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 
 软件运行路径中不要有非英文字符和空格
 
+1.5版本建议英伟达显卡显存6G以上用户使用
 
 ## LatentSync一键启动整合包下载链接
 https://pan.quark.cn/s/5455cfb8e06d
 
 https://pan.baidu.com/s/1G80dGK9qjBeIxA-G9TKLKQ?pwd=w2bs
+
+1.5版本下载链接：
+
+https://pan.quark.cn/s/d227252ae2aa
+
+https://pan.xunlei.com/s/VOLntGHeuE_uHB86I7p_tdw2A1?pwd=5hgm#
 
 ## LatentSync项目地址
 https://github.com/bytedance/LatentSync
