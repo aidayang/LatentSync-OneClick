@@ -6,6 +6,8 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 
 2025-03-19更新v1.5版本
 
+2025-06-13更新v1.6版本
+
 ## LatentSync整合包使用说明
 首先将软件压缩包下载到本地电脑并解压，双击【启动软件.exe】，稍等一会加载模型，完成后会自动打开webUI界面。
 
@@ -16,6 +18,8 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 视频教程：[youtube](https://www.youtube.com/watch?v=xsffLLDsIdw)
 
 ## 注意事项
+使用前先更新英伟达显卡驱动到最新版
+
 如果视频素材和音频素材时长不一致，最终合成视频时长由最短的那个决定。
 
 音频素材末尾最好增加0.5到1秒的静音片段，以防最终视频结尾不完整。
@@ -24,18 +28,18 @@ LatentSync是字节跳动开源的一款唇形同步软件，效果比以前的�
 
 软件运行路径中不要有非英文字符和空格
 
-1.5版本建议英伟达显卡显存6G以上用户使用
+支持英伟达50系列显卡
+
+1.0版本电脑英伟达显存不低于6G
+
+1.5版本电脑英伟达显存不低于8G
+
+1.6版本电脑英伟达显存不低于12G
 
 ## LatentSync一键启动整合包下载链接
 https://pan.quark.cn/s/5455cfb8e06d
 
-https://pan.baidu.com/s/1G80dGK9qjBeIxA-G9TKLKQ?pwd=w2bs
-
-1.5版本下载链接：
-
-https://pan.quark.cn/s/d227252ae2aa
-
-https://pan.xunlei.com/s/VOLntGHeuE_uHB86I7p_tdw2A1?pwd=5hgm#
+https://pan.xunlei.com/s/VOScA02YRVdw9PE4vdY3_zaNA1?pwd=s5mg#
 
 ## LatentSync项目地址
 https://github.com/bytedance/LatentSync
